@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Braimah Abiola 👋
 
-<!--
-**Braimah-Abiola/Braimah-Abiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Bluepill
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on Youtube
+- 🤔 I’m looking for help with Software Fragmentation.
+- 💬 Ask me about Android Development
+- 📫 How to reach me: Twitter - @imbraimahabiola
+- 😄 Pronouns: He / His
+- ⚡ Fun fact: I am a teenager
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
